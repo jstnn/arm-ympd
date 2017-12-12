@@ -12,8 +12,6 @@ An instance of icecast is now running with the port 8080 mapped to your host or 
 
 You can edit the information in the frontend, using your browser.
 
-The passwords in the configuration are just for testing purposes.
-
 # Credits
 
 This dockerfile is based on the [alpine-ympd image](https://hub.docker.com/r/vitiman/alpine-ympd/). Changes has been made to compile with an IoT device with an ARMv7 architecture like the RaspberryPi 3 using a resin.os optimized image.
